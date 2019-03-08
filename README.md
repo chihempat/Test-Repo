@@ -1,2 +1,1 @@
-# EduBuddyy
-# EduBuddyy
+"first commit for dsc"

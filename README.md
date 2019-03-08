@@ -1,1 +1,1 @@
-"first commit for dsc"
+DSC Scet Git workshop test repo!
